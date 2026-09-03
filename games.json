@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "Nazi Zombies Portable",
+    "description": "A classic zombie survival game.",
+    "category": "Action",
+    "icon": "🧟",
+    "file": "games/Nazi-Zombies-Portable.html"
+  }
+]
